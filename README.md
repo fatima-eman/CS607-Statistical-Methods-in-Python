@@ -19,9 +19,7 @@ CS607-Statistical-Methods-in-Python/
 │
 └── chapter_02/                            
     └── CH02_Descriptive_Statistics.ipynb
-
 Technologies and Libraries Used
-
 Python 3.x
 
 Jupyter Notebook: For interactive data analysis and documenting mathematical logic.
@@ -31,7 +29,6 @@ Pandas: For data structures, frequency tables, and automated class interval grou
 Matplotlib and Seaborn: For constructing visualizations such as relative frequency line graphs, pie charts, stem-and-leaf plots, and histograms.
 
 Setup and Execution
-
 Clone this repository to your local machine using your terminal: git clone https://github.com/fatima-eman/CS607-Statistical-Methods-in-Python.git
 
 Navigate into the directory: cd CS607-Statistical-Methods-in-Python
