@@ -1,0 +1,33 @@
+1. Initial Setup & Installation (Run Once)
+Run these in your terminal from inside your CS607-Statistical-Methods-in-Python folder:
+
+Create the virtual environment:
+python -m venv venv
+
+Activate the virtual environment:
+
+On Windows: venv\Scripts\activate
+
+On Mac/Linux: source venv/bin/activate
+(You will know it is active when you see (venv) at the start of your terminal prompt).
+
+Install the libraries from your text file:
+pip install -r requirements.txt
+
+2. Daily Workflow Commands (Run Again and Again)
+Every time you sit down to work on your assignment, you will cycle through these:
+
+Start your workspace (Make sure your venv is active first):
+jupyter notebook
+
+Check which files you have changed:
+git status
+
+Stage your changes to be saved:
+git add .
+
+Save a snapshot of your work with a message:
+git commit -m "Solved Chapter 2 Problem 1"
+
+Upload your saved work to your GitHub profile:
+git push
