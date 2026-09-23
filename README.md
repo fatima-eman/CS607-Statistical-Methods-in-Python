@@ -8,7 +8,7 @@ This repository contains Python-based solutions for the statistical problem sets
 * **Reference Text:** Sheldon M. Ross, *Introduction to Probability and Statistics for Engineers and Scientists, 3rd Edition*
 
 ## Repository Structure
-**CS607-Statistical-Methods-in-Python/**
+CS607-Statistical-Methods-in-Python/
 │
 ├── README.md                              
 ├── requirements.txt                       
