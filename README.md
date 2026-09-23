@@ -20,22 +20,22 @@ CS607-Statistical-Methods-in-Python/
 └── chapter_02/                            
     └── CH02_Descriptive_Statistics.ipynb
 
-## Technologies & Libraries Used
-* **Python 3.x**
-* **Jupyter Notebook:** For interactive data analysis and documenting mathematical logic.
-* **Pandas:** For data structures, frequency tables, and automated class interval grouping (e.g., using `value_counts(bins=k, normalize=True)`)[cite: 2].
-* **Matplotlib & Seaborn:** For constructing visualizations such as relative frequency line graphs, pie charts, stem-and-leaf plots, and histograms.
+Technologies and Libraries Used
 
-## Setup & Execution
+Python 3.x
 
-1. Clone this repository to your local machine:
-   `git clone <your-repository-url>`
+Jupyter Notebook: For interactive data analysis and documenting mathematical logic.
 
-2. Navigate into the directory:
-   `cd CS607-Statistical-Methods-in-Python`
+Pandas: For data structures, frequency tables, and automated class interval grouping.
 
-3. Install the required dependencies:
-   `pip install -r requirements.txt`
+Matplotlib and Seaborn: For constructing visualizations such as relative frequency line graphs, pie charts, stem-and-leaf plots, and histograms.
 
-4. Launch the Jupyter environment to view the solutions:
-   `jupyter notebook`
+Setup and Execution
+
+Clone this repository to your local machine using your terminal: git clone https://github.com/fatima-eman/CS607-Statistical-Methods-in-Python.git
+
+Navigate into the directory: cd CS607-Statistical-Methods-in-Python
+
+Install the required dependencies: pip install -r requirements.txt
+
+Launch the Jupyter environment to view the solutions: jupyter notebook
